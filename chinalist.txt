@@ -200,7 +200,7 @@ http://ltsdl.qq.com/
 http://ltslx.qq.com/
 http://ltsws.qq.com/
 http://vhotwsh.video.qq.com/
-v.qq.com##.site_board_ads.show
+||v.qq.com##.site_board_ads.show
 video.dispatch.tc.qq.com
 ##txpdiv[data-role="hd-ad-adapter-interactivelayer"]
 !--56
