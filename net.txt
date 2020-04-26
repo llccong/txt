@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/llccong/txt/master/chinalist.txt
+
+http://sub.adtchrome.com/adt-chinalist-easylist.txt
